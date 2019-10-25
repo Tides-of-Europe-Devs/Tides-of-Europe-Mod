@@ -33,7 +33,7 @@ to check this page often, and redownload.
 
 1. Download the [ZIP file](https://github.com/Tides-of-Europe-Devs/Tides-of-Europe-Mod/archive/master.zip) for the mod.
 2. Extract the ZIP to `Documents/Paradox Interactive/Hearts of Iron IV/mod`.
-3. Rename the folder you just extracted (`Tides-of-Europe-Mod-master`) to `Tides-of-Europe-dev`.
+3. Rename the folder you just extracted `Tides-of-Europe-Mod-master` to `Tides-of-Europe-dev`.
 3. Copy "Tides-of-Europe-Dev.mod" to `Documents/Paradox Interactive/Hearts of Iron IV/mod`.
 4. Start up HOI4, and select "Tides of Europe (Dev Version)".
 
