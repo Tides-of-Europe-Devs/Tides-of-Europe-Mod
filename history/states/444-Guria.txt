@@ -1,6 +1,12 @@
 state={
 	id=444
 	name="STATE_444"
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = GEO
+
+	}
 	provinces={
 		2660 2767 
 	}

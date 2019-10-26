@@ -1,0 +1,18 @@
+
+state={
+	id=448
+	name="STATE_448"
+
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = GEO
+
+	}
+
+	provinces={
+		2882 2883 2924 2977 3099 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
