@@ -16,7 +16,7 @@ just download a ZIP archive.
    `https://github.com/Tides-of-Europe-Devs/Tides-of-Europe-Mod`. and clone it into
    `Paradox Interactive/Hearts of Iron IV/mod`, under your user's Documents
    folder. Start the cloning process by clicking "Clone".
-4. Open the new folder using a file explorer. Drag `big-europe.mod`
+4. Open the new folder using a file explorer. Drag `Tides-of-Europe-Dev.mod`
    into the `mods` folder.
 5. Start up HOI4, and select "Tides of Europe (Dev Version)".
 
