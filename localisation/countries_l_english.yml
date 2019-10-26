@@ -251,6 +251,10 @@
  OTT_democratic_ADJ:0 "Turkish"
  OTT_neutrality_ADJ:0 "Ottoman"
  OTT_communism_ADJ:0 "Turkish"
+ RUS_neutrality:0 "Russian Tsardom"
+ RUS_neutrality_DEF:0 "the Russian Tsardom"
+ RUS_neutrality_ADJ:0 "Russian"
+ 
  
  TUR_fascism:1 "Turkish Empire"
  TUR_fascism_DEF:1 "the Turkish Empire"

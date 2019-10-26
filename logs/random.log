@@ -1,8 +1,0 @@
-[gameapplication.cpp:2104]: Resetting game
-[gameapplication.cpp:2136]: Resetting gamestate. Total time: 0.869394
-[gameapplication.cpp:2146]: Destroying HistoryDatabase. Time: 0.00282021
-[gameapplication.cpp:2156]: Reseting IDs. Time: 0.000248188
-[gameapplication.cpp:2172]: Loading HistoryDatabase. Time: 3.31925
-[gameapplication.cpp:2192]: Executing HistoryEntries. Time: 0.113944
-[gameapplication.cpp:2208]: Refreshing knowledge. Time: 0.00964927
-[gameapplication.cpp:2223]: CGraphicalMap ResetGame. Time: 6.30986e-06
