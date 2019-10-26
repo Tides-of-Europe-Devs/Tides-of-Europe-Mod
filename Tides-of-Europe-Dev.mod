@@ -10,7 +10,8 @@ tags={
 replace_path="history/states"
 replace_path="map/strategicregions"
 replace_path="map/supplyareas"
-replace_path="map/weatherpositions.txt"
+replace_path="common/state_category"
+replace_path="map/weatherpositions.txt" 
 
 picture="iconmod.jpg"
 remote_file_id="1897461180"

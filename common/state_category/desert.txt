@@ -1,0 +1,8 @@
+state_categories={
+	desert = {
+		local_building_slots = 0
+	
+		color = { 40 40 40 }
+
+	}
+}

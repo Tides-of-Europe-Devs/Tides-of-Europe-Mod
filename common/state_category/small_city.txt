@@ -1,0 +1,8 @@
+state_categories={
+	small_city = {
+		local_building_slots = 2
+	
+		color = { 240 240 0 }
+
+	}
+}
