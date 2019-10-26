@@ -8,4 +8,4 @@ tags={
 }
 picture="iconmod.jpg"
 remote_file_id="1897461180"
-supported_version="1.6.*"
+supported_version="1.7.*"
