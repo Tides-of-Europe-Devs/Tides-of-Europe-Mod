@@ -1,0 +1,15 @@
+
+state={
+	id=27
+	name="STATE_27"
+        impassable = yes
+        history = {
+        owner = DEN
+        add_core_of = DEN
+        }
+	provinces={
+		16657 16695 16709 16726 16743 16807 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

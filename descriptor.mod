@@ -10,5 +10,5 @@ tags={
 	"Ideologies"
 }
 picture="iconmod.jpg"
-remote_file_id="1897461180"
-supported_version="1.7.*"
+remote_file_id="1596894208"
+supported_version="1.6.*"

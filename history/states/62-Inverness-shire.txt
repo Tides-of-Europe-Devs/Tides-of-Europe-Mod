@@ -1,0 +1,13 @@
+state={
+	id=62
+	name="STATE_62"
+	provinces={
+		14238 14269 14279 14326 14409 14410 14420 14454 14507 14508 14509 14517 14602 14632 14707 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000        
+        history = {
+        owner = ENG
+        add_core_of = ENG
+        }
+}

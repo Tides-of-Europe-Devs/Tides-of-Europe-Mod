@@ -1,0 +1,14 @@
+
+state={
+	id=245
+	name="STATE_245"
+	history={
+		owner = TUR
+		add_core_of = TUR
+        }
+	provinces={
+		1272 1328 1372 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

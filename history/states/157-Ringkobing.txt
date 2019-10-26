@@ -1,0 +1,13 @@
+state={
+	id=157
+	name="STATE_157"
+        history = {
+        owner = DEN
+        add_core_of = DEN
+        }
+	provinces={
+		13784 13798 13820 14001 14024 14123 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

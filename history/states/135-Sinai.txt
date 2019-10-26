@@ -1,0 +1,15 @@
+
+state={
+	id=135
+	name="STATE_135"
+        history = {
+        owner = ENG
+        add_core_of = TUR
+        add_core_of = EGY
+        }
+	provinces={
+		73 191 209 280 321 399 435 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

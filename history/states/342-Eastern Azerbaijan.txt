@@ -1,0 +1,14 @@
+state={
+	id=342
+	name="STATE_342"
+	history={
+		owner = PER
+		add_core_of = PER
+		add_core_of = AZB
+        }
+	provinces={
+		1368 1403 1432 1444 1459 1497 1560 1598 1607 1642 1661 1690 1696 1773 1806 1825 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

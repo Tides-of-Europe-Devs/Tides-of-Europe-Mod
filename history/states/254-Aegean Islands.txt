@@ -1,0 +1,15 @@
+
+state={
+	id=254
+	name="STATE_254"
+	history={
+		owner = GRE
+		add_core_of = GRE
+		add_core_of = TUR
+        }
+	provinces={
+		1341 1343 1351 1378 1412 1415 1430 1455 1486 1503 1522 1548 1549 1585 1830 2114 2129 2314 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

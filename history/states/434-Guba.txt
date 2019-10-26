@@ -1,0 +1,15 @@
+state={
+	id=434
+	name="STATE_434"
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = AZR
+
+	}
+	provinces={
+		2425 2431 2495 2624 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

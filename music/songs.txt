@@ -1,0 +1,66 @@
+
+music = {
+	song = "Anthem_of_Austria-Hungary"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+
+music = {
+	song = "The_Königgrätzer_Marsch"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "Anthem_of_France"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "Anthem_of_Imperial_Germany_(German Empire)"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "Preußens_Gloria"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "Radetskymarsch"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "Schwarzbraun_ist_die_Haselnuss"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}
+music = {
+	song = "Anthem_of_the_USSR"
+	chance = {
+		modifier = {
+			factor = 0.5
+		}		
+	}
+}

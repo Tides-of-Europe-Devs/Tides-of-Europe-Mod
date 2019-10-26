@@ -1,0 +1,18 @@
+
+state={
+	id=341
+	name="STATE_341"
+
+	history={
+		owner = PER
+		add_core_of = PER
+		add_core_of = AZB
+
+	}
+
+	provinces={
+		1223 1233 1281 1292 1298 1420 1437 1523 1535 1597 1622 1719 1772 1828 1896 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

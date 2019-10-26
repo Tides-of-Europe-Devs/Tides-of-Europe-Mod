@@ -1,0 +1,14 @@
+
+state={
+	id=291
+	name="STATE_291"
+	history={
+		owner = TUR
+		add_core_of = TUR
+        }
+	provinces={
+		1831 1840 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,13 @@
+state={
+	id=143
+	name="STATE_143"
+        history = {
+        owner = GER
+        add_core_of = GER
+        }
+	provinces={
+		12563 12712 12755 12790 12791 12828 13012 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

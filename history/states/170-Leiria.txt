@@ -1,0 +1,13 @@
+state={
+	id=170
+	name="STATE_170"
+        history = {
+        owner = POR
+        add_core_of = POR
+        }
+	provinces={
+		2052 2144 2154 2155 2279 2284 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

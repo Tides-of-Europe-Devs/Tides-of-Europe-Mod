@@ -1,0 +1,17 @@
+
+state={
+	id=36
+	name="STATE_36"
+
+	history={
+		owner = ENG
+		add_core_of = ENG
+
+	}
+
+	provinces={
+		12696 12710 12738 12891 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,13 @@
+state={
+	id=193
+	name="STATE_193"
+        history = {
+        owner = SPR
+        add_core_of = SPR
+        }
+	provinces={
+		2258 2275 2320 2325 2477 2478 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

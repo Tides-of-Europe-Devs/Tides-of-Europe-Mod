@@ -1,0 +1,13 @@
+state={
+	id=21
+	name="STATE_21"
+        history = {
+        owner = FRA
+        add_core_of = TUN
+        }
+	provinces={
+		1241 1321 1327 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

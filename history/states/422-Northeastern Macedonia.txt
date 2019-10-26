@@ -1,0 +1,14 @@
+state={
+	id=422
+	name="STATE_422"
+	history={
+		owner = BUL
+		add_core_of = BUL
+		add_core_of = MAC
+        }
+	provinces={
+		2542 2620 2664 2747 2796 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

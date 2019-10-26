@@ -1,0 +1,15 @@
+state={
+	id=442
+	name="STATE_442"
+	history={
+		owner = SOV
+		add_core_of = SOV
+		add_core_of = ARM
+
+	}
+	provinces={
+		2317 2406 2424 2468 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,13 @@
+state={
+	id=65
+	name="STATE_65"
+	provinces={
+		14361 14400 14401 14464 14511 14533 14622 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000        
+        history = {
+        owner = ENG
+        add_core_of = ENG
+        }
+}

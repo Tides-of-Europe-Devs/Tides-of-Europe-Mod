@@ -1,0 +1,14 @@
+
+state={
+	id=394
+	name="STATE_394"
+	history={
+		owner = BUL
+		add_core_of = BUL
+        }
+	provinces={
+		2874 3050 3078 3079 3087 3098 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+
+state={
+	id=336
+	name="STATE_336"
+        history = {
+        owner = ENG
+        add_claim_by = TUR
+        add_core_of = EGY
+        }
+	provinces={
+		65 180 358 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

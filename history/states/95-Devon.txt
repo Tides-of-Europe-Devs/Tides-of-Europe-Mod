@@ -1,0 +1,14 @@
+
+state={
+	id=95
+	name="STATE_95"
+	provinces={
+		9024 9045 9236 9259 9343 9424 9453 9490 9491 9511 9552 9641 9691 9724 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000        
+        history = {
+        owner = ENG
+        add_core_of = ENG
+        }
+}

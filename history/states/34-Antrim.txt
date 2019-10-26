@@ -1,0 +1,17 @@
+
+state={
+	id=34
+	name="STATE_34"
+
+	history={
+		owner = ENG
+		add_core_of = ENG
+
+	}
+
+	provinces={
+		13010 13023 13155 13201 13325 13346 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

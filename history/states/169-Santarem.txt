@@ -1,0 +1,14 @@
+
+state={
+	id=169
+	name="STATE_169"
+        history = {
+        owner = POR
+        add_core_of = POR
+        }
+	provinces={
+		1826 1835 1874 1938 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

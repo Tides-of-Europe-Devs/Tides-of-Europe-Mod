@@ -1,0 +1,9 @@
+strategic_region={
+	id=22
+	name="STRATEGICREGION_22"
+	provinces={
+		1436 1439 1440 1478 1491 1532 1600 1648 1699 1715 1748 1759 1814 1820 1826 1835 1874 1938 1951 
+	}
+	weather={
+	}
+}

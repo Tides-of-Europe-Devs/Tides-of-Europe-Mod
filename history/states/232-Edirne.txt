@@ -1,0 +1,13 @@
+state={
+	id=232
+	name="STATE_232"
+	history={
+		owner = BUL
+		add_core_of = TUR
+        }
+	provinces={
+		2382 2383 2465 2544 2642 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

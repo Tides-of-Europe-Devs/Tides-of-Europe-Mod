@@ -1,0 +1,13 @@
+state={
+	id=13
+	name="STATE_13"
+        history = {
+        owner = SWE
+        add_core_of = SWE
+        }
+	provinces={
+		15226 15276 15387 15423 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

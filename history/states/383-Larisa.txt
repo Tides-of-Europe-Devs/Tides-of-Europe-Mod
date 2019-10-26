@@ -1,0 +1,13 @@
+state={
+	id=383
+	name="STATE_383"
+	history={
+		owner = GRE
+		add_core_of = GRE
+        }
+	provinces={
+		1817 1892 2012 2020 2046 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

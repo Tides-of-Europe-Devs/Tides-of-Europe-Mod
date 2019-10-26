@@ -1,0 +1,18 @@
+
+state={
+	id=369
+	name="STATE_369"
+
+	history={
+		owner = BUL
+		add_core_of = GRE
+		add_core_of = BUL
+
+	}
+
+	provinces={
+		2472 2485 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

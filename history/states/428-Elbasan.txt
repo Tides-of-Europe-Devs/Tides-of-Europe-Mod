@@ -1,0 +1,14 @@
+state={
+	id=428
+	name="STATE_428"
+	history={
+		owner = ALB
+		add_core_of = ALB
+
+	}
+	provinces={
+		2313 2372 2447 2519 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

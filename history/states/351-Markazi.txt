@@ -1,0 +1,14 @@
+
+state={
+	id=351
+	name="STATE_351"
+	history={
+		owner = PER
+		add_core_of = PER
+        }
+	provinces={
+		829 855 856 877 969 1031 1039 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

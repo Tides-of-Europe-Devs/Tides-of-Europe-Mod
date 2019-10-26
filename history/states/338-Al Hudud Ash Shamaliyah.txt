@@ -1,0 +1,13 @@
+state={
+	id=338
+	name="STATE_338"
+	history={
+		owner = SAU
+		add_core_of = SAU
+        }
+	provinces={
+		82 83 128 158 192 221 256 346 397 428 457 458 503 509 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

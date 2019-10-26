@@ -1,0 +1,13 @@
+state={
+	id=22
+	name="STATE_22"
+        history = {
+        owner = FRA
+        add_core_of = ALG
+        }
+	provinces={
+		1128 1172 1202 1203 1282 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

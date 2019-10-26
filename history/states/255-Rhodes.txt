@@ -1,0 +1,14 @@
+state={
+	id=255
+	name="STATE_255"
+	history={
+		owner = ITA
+		add_core_of = TUR
+		add_core_of = GRE
+        }
+	provinces={
+		1213 1291 1322 1344 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

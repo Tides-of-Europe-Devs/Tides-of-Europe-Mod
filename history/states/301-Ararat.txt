@@ -1,0 +1,13 @@
+state={
+	id=301
+	name="STATE_301"
+	history={
+		owner = TUR
+		add_core_of = TUR
+        }
+	provinces={
+		1886 1908 1970 1978 2006 2054 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

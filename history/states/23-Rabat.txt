@@ -1,0 +1,13 @@
+state={
+	id=23
+	name="STATE_23"
+        history = {
+        owner = FRA
+        add_core_of = MOR
+        }
+	provinces={
+		756 777 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
