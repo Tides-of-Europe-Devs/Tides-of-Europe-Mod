@@ -1,0 +1,9 @@
+state={
+	id=1819
+	name="STATE_1819"
+	provinces={
+		439 1006 6306 13717 13771 13791 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,8 @@
+bookmarks = {
+	bookmark = {
+		name = "Cold-War"
+		desc = "Soviet-Union-vs-U.S.A"
+		date = 1950.1.1.1
+		picture = "GFX_select_date_1936"
+		default_country = "SOV"
+		default = yes

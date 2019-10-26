@@ -1,0 +1,8 @@
+bookmarks = {
+	bookmark = {
+		name = "Weimar Times"
+		desc = "Democratic Germany"
+		date = 1936.1.1.1
+		picture = "GFX_select_date_1936"
+		default_country = "GER"
+		default = yes
