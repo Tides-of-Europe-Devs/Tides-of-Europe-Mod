@@ -1,7 +1,7 @@
 
 state={
-	id=481
-	name="STATE_481"
+	id=489
+	name="STATE_489"
 
 	history={
 		owner = NOR
@@ -9,7 +9,7 @@ state={
 	}
 
 	provinces={
-		15393 15409 15443 15498 15517 15597 15612 15620 15697 15715
+		15850 15932 15959 16011 16085 16105 16228 16242 16251 16448 16505 16519 16578
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
