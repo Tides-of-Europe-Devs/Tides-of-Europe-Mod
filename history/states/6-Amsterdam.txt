@@ -1,12 +1,16 @@
+
 state={
 	id=6
 	name="STATE_6"
-        history = {
-        owner = HOL
-        add_core_of = HOL 
-        }
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+
+	}
+
 	provinces={
-		10983 10984 11211 11318 11341 11469 11578 11833 
+		10943 10983 10984 11031 11211 11318 11341 11469 11578 11833 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
