@@ -495,3 +495,7 @@
  STATE_494:0 "Troms"
  STATE_495:0 "Finnmark"
  STATE_496:0 "Romania"
+ STATE_497:1 "Germany"
+ STATE_498:0 "Switzerland"
+ STATE_499:0 "Belgium"
+ STATE_500:0 "Serbia"
