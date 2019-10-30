@@ -482,7 +482,7 @@
  STATE_481:0 "Buskerud"
  STATE_482:0 "Vestfold"
  STATE_483:0 "Telemark"
- STATE_484:0 "Aust-Agder" 
+ STATE_484:0 "Aust-Agder"
  STATE_485:0 "Vest-Agder"
  STATE_486:0 "Rogaland"
  STATE_487:0 "Hordaland"
@@ -494,3 +494,4 @@
  STATE_493:0 "Nordland"
  STATE_494:0 "Troms"
  STATE_495:0 "Finnmark"
+ STATE_496:0 "Romania"
