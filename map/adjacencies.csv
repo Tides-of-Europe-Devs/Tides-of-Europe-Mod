@@ -1,3 +1,7 @@
 From;To;Type;Through;start_x;start_y;stop_x;stop_y;adjacency_rule_name;Comment
 -1;-1;;-1;-1;-1;-1;-1;-1
 2457;2494;sea;2533;-1;-1;-1;-1;;Bosphorus
+15360;15314;sea;14944;2288;592;2284;592;;NorwayRogalan
+15332;15340;sea;14944;-1;-1;-1;-1;;NorwayRogalan2
+15706;15630;sea;15619;-1;-1;-1;-1;;Hordaland
+15897;15907;sea;15915;-1;-1;-1;-1;;SognOgFjordane
