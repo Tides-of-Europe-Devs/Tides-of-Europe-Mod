@@ -1,7 +1,7 @@
 
 state={
-	id=503
-	name="STATE_503"
+	id=516
+	name="STATE_516"
 
 	history={
 		owner = GER
@@ -10,7 +10,7 @@ state={
 	}
 
 	provinces={
-		6126 6197 6393 6481 6482 6505 6797 6844 7122 7141 7382 7413 7550 7551 7571 
+		7799 7823 7843 7988 8006 8042 8093 8118 8158 8307 8308 8323 8409 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
