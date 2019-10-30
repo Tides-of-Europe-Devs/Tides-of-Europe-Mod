@@ -1,8 +1,8 @@
 bookmarks = {
 	bookmark = {
-		name = "BLITZKRIEG_NAME"
-		desc = "BLITZKRIEG_DESC"
-		date = 1939.8.14.12
+		name = "1936"
+		desc = "1936"
+		date = 1936.1.1.12
 		picture = "GFX_select_date_1939"
 		default_country = "GER"
 	
