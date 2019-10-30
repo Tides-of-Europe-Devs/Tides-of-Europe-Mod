@@ -1,0 +1,16 @@
+
+state={
+	id=491
+	name="STATE_491"
+
+	history={
+		owner = NOR
+		add_core_of = NOR
+	}
+
+	provinces={
+		15573 15613 15716 15737 15750 15802 15838 15850 15860 15932 15959
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,16 @@
+
+state={
+	id=490
+	name="STATE_490"
+
+	history={
+		owner = NOR
+		add_core_of = NOR
+	}
+
+	provinces={
+		15987 16003 16039 16069 16189 16243 16252 16322 16363 16410 16411 16540 16544 16748
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
