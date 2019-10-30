@@ -6,7 +6,7 @@ state={
         add_core_of = NOR
         }
 	provinces={
-		15405 15443 15505 15523 
+		15405 15505 15523 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
