@@ -3,13 +3,14 @@ state={
 	id=501
 	name="STATE_501"
 
-        history = {
-             owner = LUX
-             add_core_of = LUX
-        }
+	history={
+		owner = LUX
+		add_core_of = LUX
+
+	}
 
 	provinces={
-		8065 8066 8217 8318 8482 8759 
+		8177 8290 8305 8306 8776 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
