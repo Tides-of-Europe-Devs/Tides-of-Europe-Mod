@@ -1,3 +1,11 @@
+music = {
+	song = "Maintheme"
+	chance = {
+		modifier = {
+			factor = 0.7
+		}		
+	}
+}
 
 music = {
 	song = "Anthem_of_Austria-Hungary"
