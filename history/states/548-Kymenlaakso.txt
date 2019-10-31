@@ -1,0 +1,17 @@
+
+state={
+	id=548
+	name="STATE_548"
+
+        history = {
+             owner = RUS
+             add_core_of = RUS
+	     add_core_of = FIN
+        }
+
+	provinces={
+		15707 15727 15888 15924 15984 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

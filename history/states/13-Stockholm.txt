@@ -6,7 +6,7 @@ state={
         add_core_of = SWE
         }
 	provinces={
-		15226 15276 15387 15423 
+		15226 15276 15387 15423 15424 15507 15518 15539 15658
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -1,0 +1,16 @@
+state={
+	id=526
+	name="STATE_526"
+
+	history={
+		owner = HOL
+		add_core_of = HOL
+
+	}
+
+	provinces={
+		10088 10156 10199 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

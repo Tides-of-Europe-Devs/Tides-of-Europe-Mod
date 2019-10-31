@@ -1,0 +1,17 @@
+
+state={
+	id=550
+	name="STATE_550"
+
+	history={
+		owner = LUX
+		add_core_of = LUX
+
+	}
+
+	provinces={
+		8305 8776 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
