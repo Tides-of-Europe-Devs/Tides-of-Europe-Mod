@@ -1,0 +1,16 @@
+
+state={
+	id=540
+	name="STATE_540"
+
+        history = {
+             owner = SWE
+             add_core_of = SWE
+        }
+
+	provinces={
+			16954 16973 16977 16989 17022 17059 17105 17117 17131 17157 17176 17179 17188 17195 17222 17250 17256 17290 17296 17270 17284 17340 17390 17395
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
