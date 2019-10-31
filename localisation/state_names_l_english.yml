@@ -549,3 +549,7 @@
  STATE_527:1 "Utrecht"
  STATE_528:1 "South Holland"
  STATE_550:0 "Western Luxembourg"
+ STATE_551:0 "Munich"
+ STATE_552:0 "Freiburg"
+ STATE_553:0 "Saarland"
+ STATE_554:0 "Eupen-Malmedy"
