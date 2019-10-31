@@ -7,6 +7,13 @@ spriteTypes = {
                 noOfFrames = 3
                 effectFile = "gfx/FX/buttonstate_onlydisable.lua"
         }
+
+        textSpriteType = {
+                name = "GFX_discord_button"
+                textureFile = "gfx/interface/discord_button.dds"
+                noOfFrames = 3
+                effectFile = "gfx/FX/buttonstate_onlydisable.lua"
+        }
 		
         spriteType = {
                 name = "GFX_frontend_game_logo"
