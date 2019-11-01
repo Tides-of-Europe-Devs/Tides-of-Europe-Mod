@@ -508,6 +508,7 @@
  STATE_507:0 "Østfold"
  STATE_508:0 "Älvsborg"
  STATE_509:0 "Kronoberg"
+ STATE_510:0 "Pirkanmaa"
  STATE_511:0 "Alsace-Lorraine"
  STATE_512:1 "Swabia"
  STATE_513:1 "Upper Bavaria"
@@ -555,3 +556,4 @@
  STATE_554:0 "Eupen-Malmedy"
  STATE_555:0 "Satakunta"
  STATE_556:0 "Pohjanmaa"
+ STATE_557:0 "Etelä-Pohjanmaa"
