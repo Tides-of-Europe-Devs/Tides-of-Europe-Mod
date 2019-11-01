@@ -148,7 +148,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "single_player_button"
-			position = { x = 16 y = 210 }
+			position = { x = 18 y = 210 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			font = "hoi_24header"			
 			text = "FE_SINGLE_PLAYER"				
@@ -159,12 +159,12 @@ guiTypes = {
 		iconType =	{
 			name ="frontend_game_logo"
 			spriteType = "GFX_frontend_game_logo"
-			position = { x = -65 y = 20 }
+			position = { x = -67 y = 20 }
 		}	
 
 		ButtonType = {
 			name = "multi_player_button"
-			position = { x = 16 y = 250 }
+			position = { x = 18 y = 250 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			font = "hoi_24header"			
 			text = "FE_MULTI_PLAYER"			
@@ -175,7 +175,7 @@ guiTypes = {
 		instantTextBoxType = {
 
 			name ="version_label"
-			position = { x = 35 y = 700 }
+			position = { x = 37 y = 700 }
 			textureFile = ""
 			font = "hoi_18b"
 			borderSize = {x = 0 y = 0}
@@ -187,10 +187,11 @@ guiTypes = {
 
 		instantTextBoxType = {
 
-			position = { x = 35 y = 180 }
+			name =""
+			position = { x = 37 y = 180 }
 			textureFile = ""
 			font = "hoi_20bs"
-			borderSize = {x = 1 y = 1}
+			borderSize = {x = 0 y = 0}
 			text = "Beta V0.1 The Coming Storm"	
 			format = centre
 			maxWidth = 250
@@ -200,7 +201,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "settings_button"
-			position = { x = 16 y = 290 }
+			position = { x = 18 y = 290 }
 			quadTextureSprite ="GFX_main_lobby_button"	
 			buttonText = "OPTIONS"
 			buttonFont = "hoi_24header"
@@ -211,7 +212,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "credits_button"
-			position = {  x = 16 y = 330 }
+			position = {  x = 18 y = 330 }
 			quadTextureSprite ="GFX_main_lobby_button"	
 			buttonText = "FE_CREDITS"
 			buttonFont = "hoi_24header"
@@ -221,7 +222,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "nudge_button"
-			position = { x = 16 y = 370 }
+			position = { x = 18 y = 370 }
 			quadTextureSprite ="GFX_main_lobby_button"	
 			buttonText = "Nudge!"
 			buttonFont = "hoi_24header"
@@ -229,7 +230,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "exit_button"
-			position = { x = 16 y = 450 }
+			position = { x = 18 y = 450 }
 			quadTextureSprite ="GFX_main_lobby_button"
 			font = "hoi_24header"			
 			text = "FE_EXIT"			
@@ -241,7 +242,7 @@ guiTypes = {
 		## facebook etc.
 		ButtonType = {
 			name = "homepage_button"
-			position = { x = 59 y = 720 }
+			position = { x = 61 y = 720 }
 			quadTextureSprite ="homepage"
 			clicksound = click_default
 			pdx_tooltip = "MENU_HOMEPAGE"
@@ -249,7 +250,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "forum_button"
-			position = { x = 99 y = 720 }
+			position = { x = 101 y = 720 }
 			quadTextureSprite ="forum"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FORUM"
@@ -257,7 +258,7 @@ guiTypes = {
 		}
 		ButtonType = {
 			name = "facebook_button"
-			position = { x = 139 y = 720 }
+			position = { x = 141 y = 720 }
 			quadTextureSprite ="facebook"
 			clicksound = click_default
 			pdx_tooltip = "MENU_FACEBOOK"
@@ -266,7 +267,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "twitter_button"
-			position = { x = 179 y = 720 }
+			position = { x = 181 y = 720 }
 			quadTextureSprite ="twitter"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_TWITTER"
@@ -275,7 +276,7 @@ guiTypes = {
 		
 		ButtonType = {
 			name = "privacy_policy_button"
-			position = { x = 219 y = 720 }
+			position = { x = 221 y = 720 }
 			quadTextureSprite ="privacy"
 			#clicksound = click_default
 			pdx_tooltip = "MENU_PRIVACY_POLICY"
@@ -283,7 +284,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "discord_button"
-			position = { x = 16 y = 620 }
+			position = { x = 18 y = 620 }
 			quadTextureSprite ="GFX_discord_button"	
 			buttonText = "Discord"
 			buttonFont = "hoi_24header"
@@ -294,7 +295,7 @@ guiTypes = {
 
 		ButtonType = {
 			name = "patreon_button"
-			position = { x = 16 y = 660 }
+			position = { x = 18 y = 660 }
 			quadTextureSprite ="GFX_patreon_button"	
 			buttonText = "Patreon"
 			buttonFont = "hoi_24header"
