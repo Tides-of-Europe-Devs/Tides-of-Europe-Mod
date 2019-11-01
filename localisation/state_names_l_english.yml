@@ -557,3 +557,8 @@
  STATE_555:0 "Satakunta"
  STATE_556:0 "Pohjanmaa"
  STATE_557:0 "Etelä-Pohjanmaa"
+ STATE_558:0 "Kanta-Häme"
+ STATE_559:0 "Päijät-Häme"
+ STATE_560:0 "Keski-Suomi"
+ STATE_561:0 "Keski-Pohjanmaa"
+ STATE_562:0 "Etelä-Savo"
