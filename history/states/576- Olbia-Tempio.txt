@@ -1,0 +1,15 @@
+state={
+	id=576
+	name=" Olbia-Tempio"
+	
+	history={
+        owner = ITA
+        add_core_of = ITA
+	}
+	
+	provinces={
+		2332 2351 2462 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=575
+	name="Nuoro"
+	
+	history={
+        owner = ITA
+        add_core_of = ITA
+	}
+	
+	provinces={
+		2019 2061 2216 2233 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

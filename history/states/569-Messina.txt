@@ -1,0 +1,15 @@
+state={
+	id=569
+	name="Messina"
+	
+	history={
+        owner = ITA
+        add_core_of = ITA
+	}
+	
+	provinces={
+		1492 1612 1761 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=570
+	name="Syracuse"
+	
+	history={
+        owner = ITA
+        add_core_of = ITA
+	}
+	
+	provinces={
+		1350 1448 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,15 @@
+state={
+	id=573
+	name="Sassari"
+	
+	history={
+        owner = ITA
+        add_core_of = ITA
+	}
+	
+	provinces={
+		2260 2239 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

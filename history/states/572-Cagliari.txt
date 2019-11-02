@@ -1,0 +1,15 @@
+state={
+	id=572
+	name="Cagliari"
+	
+		history={
+        owner = ITA
+        add_core_of = ITA
+	}
+	
+	provinces={
+		1856 1931 1932 1881
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

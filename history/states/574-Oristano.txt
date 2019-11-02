@@ -1,0 +1,15 @@
+state={
+	id=574
+	name="Oristano"
+	
+	history={
+        owner = ITA
+        add_core_of = ITA
+	}
+	
+	provinces={
+		2045 1906 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

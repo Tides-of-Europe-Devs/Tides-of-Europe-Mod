@@ -1,0 +1,15 @@
+state={
+	id=567
+	name="Trapani"
+	
+	history={
+        owner = ITA
+        add_core_of = ITA
+	}
+	
+	provinces={
+		1370 1526 1558 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
