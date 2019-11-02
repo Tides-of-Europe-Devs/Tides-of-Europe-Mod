@@ -1,7 +1,0 @@
-state_categories={
-	island = {
-		local_building_slots = 2
-	
-		color = { 140 240 10 }
-	}
-}
