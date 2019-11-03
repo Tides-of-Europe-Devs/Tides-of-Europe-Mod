@@ -1,6 +1,6 @@
 state={
 	id=525
-	name="Flevoland"
+	name="STATE_525"
 	provinces={
 		11108 11191 
 	}
