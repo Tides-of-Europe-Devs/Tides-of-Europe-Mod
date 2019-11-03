@@ -9,7 +9,7 @@ state={
 	provinces={
 		10940 11081 11082 11083 11167 11260 
 	}
-	manpower=143587
+	manpower=143069
 	buildings_max_level_factor=1.000
         state_category = county
 }

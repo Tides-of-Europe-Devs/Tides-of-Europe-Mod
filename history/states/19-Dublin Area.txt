@@ -10,7 +10,7 @@ state={
 	provinces={
 		11976 
 	}
-	manpower=477249
+	manpower=477196
 	buildings_max_level_factor=1.000
         state_category = capital
 }

@@ -4,10 +4,13 @@ state={
         history = {
         owner = ENG
         add_core_of = ENG
+        add_core_of = IRE
+        add_core_of = NIR
         }
 	provinces={
 		13115 13154 13200 13231 13364 
 	}
-	manpower=0
+	manpower=140625
 	buildings_max_level_factor=1.000
+        state_category = county
 }

@@ -6,12 +6,14 @@ state={
 	history={
 		owner = ENG
 		add_core_of = ENG
-
+                add_core_of = IRE
+                add_core_of = NIR
 	}
 
 	provinces={
 		13010 13023 13155 13201 13325 13346 
 	}
-	manpower=0
+	manpower=580811
 	buildings_max_level_factor=1.000
+        state_category = large_city
 }

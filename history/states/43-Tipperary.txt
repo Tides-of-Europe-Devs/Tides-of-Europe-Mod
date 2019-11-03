@@ -8,9 +8,9 @@ state={
         add_core_of = IRE
         }
 	provinces={
-		10980 11008 11147 11188 11237 11418 11465 11664 
+		10980 11008 11147 11188 11237 11418 11465 
 	}
-	manpower=151482
+	manpower=152433
 	buildings_max_level_factor=1.000
         state_category = county
 }
