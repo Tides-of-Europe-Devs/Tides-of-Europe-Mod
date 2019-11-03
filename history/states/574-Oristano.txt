@@ -1,6 +1,6 @@
 state={
 	id=574
-	name="Oristano"
+	name="STATE_574"
 	
 	history={
         owner = ITA

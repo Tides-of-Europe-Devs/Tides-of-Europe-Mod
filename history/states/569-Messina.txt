@@ -1,6 +1,6 @@
 state={
 	id=569
-	name="Messina"
+	name="STATE_569"
 	
 	history={
         owner = ITA

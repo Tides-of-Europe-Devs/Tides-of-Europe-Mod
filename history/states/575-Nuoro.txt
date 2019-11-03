@@ -1,6 +1,6 @@
 state={
 	id=575
-	name="Nuoro"
+	name="STATE_575"
 	
 	history={
         owner = ITA

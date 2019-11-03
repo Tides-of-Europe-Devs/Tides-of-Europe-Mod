@@ -1,6 +1,6 @@
 state={
 	id=571
-	name="Agrigento"
+	name="STATE_571"
 	
 	history={
         owner = ITA
