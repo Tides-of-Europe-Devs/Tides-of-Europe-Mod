@@ -1,6 +1,6 @@
 state={
 	id=570
-	name="Syracuse"
+	name="STATE_570"
 	
 	history={
         owner = ITA

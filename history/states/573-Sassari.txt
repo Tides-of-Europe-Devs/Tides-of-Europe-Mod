@@ -1,6 +1,6 @@
 state={
 	id=573
-	name="Sassari"
+	name="STATE_573"
 	
 	history={
         owner = ITA

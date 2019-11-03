@@ -1,6 +1,6 @@
 state={
 	id=568
-	name="Palermo"	
+	name="STATE_568"	
 	
 	history={
         owner = ITA

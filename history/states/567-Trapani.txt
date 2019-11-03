@@ -1,6 +1,6 @@
 state={
 	id=567
-	name="Trapani"
+	name="STATE_567"
 	
 	history={
         owner = ITA
