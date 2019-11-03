@@ -2,13 +2,15 @@
 state={
 	id=54
 	name="STATE_54"
-	provinces={
-		10981 11009 11058 11148 11263 
-	}
-	manpower=0
-	buildings_max_level_factor=1.000        
         history = {
         owner = ENG
         add_core_of = ENG
+        }
+	provinces={
+		10981 11009 11058 11148 11263 
+	}
+	manpower=104873
+	buildings_max_level_factor=1.000        
+        state_category = county
         }
 }

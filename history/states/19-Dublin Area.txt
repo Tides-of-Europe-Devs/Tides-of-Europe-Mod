@@ -4,6 +4,7 @@ state={
 	name="STATE_19"
         history = {
         owner = ENG
+        add_core_of = ENG
         add_core_of = IRE
         }
 	provinces={
@@ -11,5 +12,5 @@ state={
 	}
 	manpower=477249
 	buildings_max_level_factor=1.000
-        state_category = capitol
+        state_category = capital
 }
