@@ -1,6 +1,6 @@
 state={
 	id=576
-	name=" Olbia-Tempio"
+	name="Olbia-Tempio"
 	
 	history={
         owner = ITA
