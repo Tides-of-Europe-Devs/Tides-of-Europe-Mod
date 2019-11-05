@@ -1,0 +1,16 @@
+state={
+	id=587
+	name="STATE_587"
+	
+	history={
+		owner = FRA
+		add_core_of = FRA
+
+	}
+	
+	provinces={
+		6123 6285 6331 6388 6431 6453 6474 6516 6536 6537 6615 6633 6728 6749 6774 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
