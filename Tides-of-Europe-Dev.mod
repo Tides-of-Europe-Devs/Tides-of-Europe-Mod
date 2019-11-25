@@ -1,5 +1,10 @@
-﻿name="Tides of Europe (Dev Version)"
+version="0.1"
+name="Tides of Europe (Dev Version)"
 path="mod/Tides-of-Europe-Mod/"
+supported_version="1.8.*"
+picture="iconmod.jpg"
+
+remote_file_id="1897461180"
 
 tags={
 	"Graphics"
@@ -13,7 +18,3 @@ replace_path="map/supplyareas"
 replace_path="common/state_category"
 replace_path="map/weatherpositions.txt"
 replace_path="gfx/loadingscreens"
-
-picture="iconmod.jpg"
-remote_file_id="1897461180"
-supported_version="1.7.*"

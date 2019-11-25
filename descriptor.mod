@@ -1,14 +1,19 @@
-# This version of the file is needed for compatibility with Steam. It would be
-# renamed to reflect this, however it cannot be due to various restrictions.
+version="0.1"
+name="Tides of Europe (Dev Version)"
+supported_version="1.8.*"
+picture="iconmod.jpg"
 
-name="Big Europe (dev version)"
-archive="bigeuropeonlyalpha.zip"
-replace_path="history/states"
+remote_file_id="1897461180"
+
 tags={
 	"Graphics"
 	"Map"
 	"Ideologies"
 }
-picture="iconmod.jpg"
-remote_file_id="1596894208"
-supported_version="1.6.*"
+
+replace_path="history/states"
+replace_path="map/strategicregions"
+replace_path="map/supplyareas"
+replace_path="common/state_category"
+replace_path="map/weatherpositions.txt"
+replace_path="gfx/loadingscreens"
