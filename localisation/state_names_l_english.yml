@@ -599,4 +599,9 @@
  STATE_597:0 "Lappi"
  STATE_598:0 "Petsamo"
  STATE_599:0 "Salla"
-
+STATE_600:0 "Liechetenstein"
+STATE_633:0 "Calais"
+STATE_634:0 "Nord"
+STATE_635:0 "Pas de Calais"
+STATE_636:0 "Somme"
+STATE_637:0 "Oise"
