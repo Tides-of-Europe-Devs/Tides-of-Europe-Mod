@@ -7,7 +7,7 @@ state={
 		add_core_of = TUR
         }
 	provinces={
-		1246 1246 1253 1259 1367 1402 
+		1246 1253 1259 1367 1402 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

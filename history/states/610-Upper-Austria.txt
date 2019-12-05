@@ -1,0 +1,17 @@
+
+state={
+	id=610
+	name="STATE_610"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+
+	}
+
+	provinces={
+		6289 6435 6436 6540 6605 6660 6684 6735 6736 6798 6818 6923 6978 6979 6995 6996 7038 7106 7144 7384 7415 7604 7732 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,0 +1,18 @@
+state={
+	id=12
+	name="STATE_12"
+	
+	history={
+		owner = LIC
+		add_core_of = LIC
+		add_core_of = SWI
+		add_core_of = AUS
+
+	}
+	
+	provinces={
+		5670 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}
