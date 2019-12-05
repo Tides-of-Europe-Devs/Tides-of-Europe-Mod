@@ -1,13 +1,17 @@
+
 state={
 	id=2
 	name="STATE_2"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+
+	}
+
 	provinces={
-		2731 2761 2896 
+		2576 2581 2615 2658 2671 2684 2731 2761 2813 2830 2870 2896 2930 3002 
 	}
 	manpower=0
-	buildings_max_level_factor=1.000        
-        history = {
-        owner = ITA
-        add_core_of = ITA
-        }
+	buildings_max_level_factor=1.000
 }
