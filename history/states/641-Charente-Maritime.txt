@@ -1,16 +1,15 @@
-
 state={
-	id=592
-	name="STATE_592"
-
+	id=641
+	name="STATE_641"
+	
 	history={
 		owner = FRA
 		add_core_of = FRA
 
 	}
-
+	
 	provinces={
-		4636 4685 4750 4785 4843 4897 4898 4908 4954 4974 4995 5043 5044 5070 5141 5207 5229 
+		4196 4373 4532 4533 4734 4784 4673
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
