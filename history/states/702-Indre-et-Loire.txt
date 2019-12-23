@@ -1,6 +1,6 @@
 state={
-	id=643
-	name="STATE_643"
+	id=702
+	name="STATE_702"
 	
 	history={
 		owner = FRA
@@ -9,7 +9,7 @@ state={
 	}
 	
 	provinces={
-		3148 3214 3232 3347 
+		5262 5281 5368 5503 5569 5595 5596 5619 5776 5777 6012 6013 6244 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
