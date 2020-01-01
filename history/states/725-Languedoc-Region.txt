@@ -1,0 +1,15 @@
+state={
+	id=725
+	name="STATE_725"
+	
+		history={
+	owner = FRA
+	add_core_of = FRA
+
+	}
+	provinces={
+		2953 2964 2993 3073 3171 3183 3275 3290 3291 3348 3355 3356 3385 3429 3447 3469 3470 3509 3516 3553 3575 3609 3670 3671 3771 3772 3801 3817 3895 3917 3996 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

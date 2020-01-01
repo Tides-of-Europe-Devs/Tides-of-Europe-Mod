@@ -3,11 +3,16 @@ state={
 	name="STATE_9"
         history = {
         owner = GRE
+		buildings = {
+			infrastructure = 6
+			arms_factory = 20
+			industrial_complex = 40
+		}
         add_core_of = GRE
         }
 	provinces={
 		1578 
 	}
-	manpower=0
+	manpower=10000000
 	buildings_max_level_factor=1.000
 }

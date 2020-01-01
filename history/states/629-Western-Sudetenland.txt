@@ -2,8 +2,15 @@
 state={
 	id=629
 	name="STATE_629"
+
+	history={
+		owner = AUS
+		add_core_of = AUS
+
+	}
+
 	provinces={
-		7385 7415 7438 7604 7687 7731 7732 7801 7802 8018 
+		7385 7415 7438 7604 7687 7731 7732 7801 7802 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

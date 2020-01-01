@@ -1,0 +1,15 @@
+state={
+	id=748
+	name="STATE_748"
+	
+	history={
+	owner = ENG
+	add_core_of = ENG
+
+	}
+	provinces={
+		67 68 69 70 71 133 182 210 214 220 231 239 252 315 323 324 339 340 349 354 365 415 416 417 426 440 448 482 498 550 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

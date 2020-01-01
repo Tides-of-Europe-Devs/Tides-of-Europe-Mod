@@ -5,6 +5,11 @@ state={
 
 	history={
 		owner = ITA
+		buildings = {
+			infrastructure = 6
+			arms_factory = 30
+			industrial_complex = 40
+		}
 		add_core_of = ITA
 
 	}
@@ -12,6 +17,6 @@ state={
 	provinces={
 		2576 2581 2615 2658 2671 2684 2731 2761 2813 2830 2870 2896 2930 3002 
 	}
-	manpower=0
+	manpower=20000000
 	buildings_max_level_factor=1.000
 }

@@ -1,4 +1,4 @@
-﻿capital = 219
+﻿capital = 24
 
 oob = "SOV_1936"
 if = {
@@ -261,32 +261,23 @@ if = {
 set_convoys = 50
 
 set_politics = {
-	ruling_party = neutrality
+	ruling_party = democratic
 	last_election = "1933.7.1"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
-	democratic = 10
-	fascism = 2
-	communism = 88
+	democratic = 100
+	fascism = 0
+	communism = 0
 }
 
-create_faction = Comintern
-add_to_faction = SOV
-add_to_faction = MON
-add_to_faction = TAN
 
-
-add_ideas = {
-	trotskyite_plot
-	home_of_revolution
-}
 
 create_country_leader = {
-	name = "Joseph Stalin"
+	name = "Nikolaus II."
 	desc = "POLITICS_JOSEPH_STALIN_DESC"
-	picture = "Portrait_Soviet_Joseph_Stalin.dds"
+	picture = ""
 	expire = "1953.3.1"
 	ideology = stalinism
 	traits = {

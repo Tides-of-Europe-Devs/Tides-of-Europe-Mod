@@ -5,6 +5,11 @@ state={
 
 	history={
 		owner = BEL
+		buildings = {
+			infrastructure = 6
+			arms_factory = 20
+			industrial_complex = 30
+		}
 		add_core_of = BEL
 
 	}
@@ -12,6 +17,6 @@ state={
 	provinces={
 		8319 8349 8364 8483 8558 8603 8635 8716 8757 8758 8794 8869 8889 8890 8909 8928 8929 9064 9065 9108 9128 9150 9171 9172 9173 9278 9310 9311 9344 9370 9396 9397 9492 9493 9494 9512 9513 9514 9515 9535 9536 9537 9538 9647 9750 9781 9782 9783 9852 9853 9880 9898 9925 9926 
 	}
-	manpower=0
+	manpower=14000000
 	buildings_max_level_factor=1.000
 }

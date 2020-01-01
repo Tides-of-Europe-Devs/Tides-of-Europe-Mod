@@ -1,4 +1,4 @@
-﻿capital = 64
+﻿capital = 662
 
 oob = "GER_1936"
 
@@ -282,14 +282,14 @@ create_import = {
 }
 
 set_politics = {
-	ruling_party = monarchism
+	ruling_party = neutrality
 	last_election = "1933.3.5"
 	election_frequency = 48
 	elections_allowed = no
 }
 set_popularities = {
 	democratic = 10
-	monarchism = 90
+	neutrality = 90
 	communism = 0
 }
 
@@ -309,13 +309,12 @@ add_ideas = GER_mefo_bills_1
 activate_mission = GER_mefo_bills_mission
 
 create_country_leader = {
-	name = "Adolf Hitler"
+	name = "Wilhelm II."
 	desc = "POLITICS_ADOLF_HITLER_DESC"
-	picture = "Portrait_Germany_Adolf_Hitler.dds"
+	picture = ""
 	expire = "1965.1.1"
-	ideology = nazism
+	ideology = centrism
 	traits = {
-		dictator
 	}
 }
 

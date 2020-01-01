@@ -1,8 +1,12 @@
+
 state={
 	id=604
 	name="STATE_604"
+		history={
+		owner = MNT
+			}
 	provinces={
-		2932 2955 3024 3066 3077 
+		2932 2955 3024 3066 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

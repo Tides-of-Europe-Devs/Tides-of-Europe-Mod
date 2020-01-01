@@ -4,14 +4,14 @@ state={
 	name="STATE_367"
 
 	history={
-		owner = BUL
+		owner = TUR
 		add_core_of = GRE
 		add_core_of = BUL
 
 	}
 
 	provinces={
-		2416 2450 2562 
+		2562 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

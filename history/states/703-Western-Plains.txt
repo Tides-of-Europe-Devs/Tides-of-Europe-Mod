@@ -1,0 +1,16 @@
+
+state={
+	id=703
+	name="STATE_703"
+	
+	history={
+	owner = GER
+	add_core_of = GER
+
+	}
+	provinces={
+		10801 10944 11012 11060 11109 11212 11241 11242 11243 11284 11342 11378 11420 11470 11471 11516 11517 11535 11563 11646 11667 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

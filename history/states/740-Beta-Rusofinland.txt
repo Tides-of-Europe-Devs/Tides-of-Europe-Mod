@@ -1,0 +1,15 @@
+state={
+	id=740
+	name="STATE_740"
+	
+	history={
+	owner = SOV
+	add_core_of = SOV
+
+	}
+	provinces={
+		15623 15641 15659 15674 15762 15763 15783 15784 15803 15819 15828 15964 16025 16092 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

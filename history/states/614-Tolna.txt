@@ -1,6 +1,12 @@
 state={
 	id=614
 	name="STATE_614"
+	
+		history={
+		owner = AUS
+		add_core_of = AUS
+
+	}
 	provinces={
 		5058 5088 5164 5214 5371 5463 5485 
 	}

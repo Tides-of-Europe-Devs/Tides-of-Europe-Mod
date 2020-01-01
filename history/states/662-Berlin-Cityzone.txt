@@ -1,9 +1,20 @@
 state={
 	id=662
 	name="STATE_662"
+	
+	history={
+	owner = GER
+		buildings = {
+			infrastructure = 6
+			arms_factory = 30
+			industrial_complex = 40
+		}
+	add_core_of = GER
+
+	}
 	provinces={
 		11194 11216 11381 11382 
 	}
-	manpower=0
+	manpower=20000000
 	buildings_max_level_factor=1.000
 }

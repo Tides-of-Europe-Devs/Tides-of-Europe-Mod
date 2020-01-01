@@ -2,8 +2,12 @@
 state={
 	id=602
 	name="STATE_602"
+	
+	history={
+		owner = MNT
+			}
 	provinces={
-		2814 2879 2946 2947 2988 3014 3109 
+		2814 2879 2947 3014 3109 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

@@ -2,6 +2,12 @@
 state={
 	id=554
 	name="STATE_554"
+	
+	history={
+	owner = GER
+	add_core_of = GER
+
+	}
 	provinces={
 		8946 
 	}

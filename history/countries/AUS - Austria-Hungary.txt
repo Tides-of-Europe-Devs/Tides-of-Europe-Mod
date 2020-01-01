@@ -1,4 +1,4 @@
-﻿capital = 4
+﻿capital = 632
 
 oob = "AUS_1936"
 
@@ -22,7 +22,7 @@ set_politics = {
 }
 
 set_popularities = {
-	monarchism = 100
+	neutrality = 100
 	fascism = 0
 	democratic = 0
 	communism = 0
@@ -31,9 +31,9 @@ set_popularities = {
 set_stability = 0.50
 
 create_country_leader = {
-	name = "Kurt Schuschnigg"
+	name = "Franz Joseph I."
 	desc = "POLITICS_KURT_SCHUSCHNIGG_DESC"
-	picture = "Portrait_Austria_Kurt_Schuschnigg.dds"
+	picture = ""
 	expire = "1965.1.1"
 	ideology = centrism
 	traits = {

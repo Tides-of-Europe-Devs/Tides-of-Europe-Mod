@@ -2,8 +2,14 @@
 state={
 	id=654
 	name="STATE_654"
+	
+	history={
+	owner = GER
+	add_core_of = GER
+
+	}
 	provinces={
-		11302 11581 11692 11693 11713 11795 11796 11874 11875 11964 12021 12039 
+		11302 11380 11564 11581 11624 11692 11693 11713 11795 11796 11875 11964 12021 12039 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

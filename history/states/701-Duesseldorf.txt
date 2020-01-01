@@ -1,0 +1,16 @@
+
+state={
+	id=701
+	name="STATE_701"
+	
+	history={
+	owner = GER
+	add_core_of = GER
+
+	}
+	provinces={
+		9804 9805 9854 9899 10022 10037 10038 10283 10297 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

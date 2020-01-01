@@ -1,0 +1,16 @@
+
+state={
+	id=729
+	name="STATE_729"
+	
+		history={
+		owner = ROM
+		add_core_of = ROM
+
+	}
+	provinces={
+		3545 3546 3555 3581 3600 3635 3697 3729 3766 3793 3826 3827 3828 3829 3957 3968 3969 4032 4054 4065 4076 4145 4184 4226 4303 4321 4345 4405 4479 4500 4501 4543 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

@@ -1,8 +1,15 @@
+
 state={
 	id=660
 	name="STATE_660"
+	
+	history={
+	owner = GER
+	add_core_of = GER
+
+	}
 	provinces={
-		11606 11668 11690 11872 11873 11900 12002 12020 12140 
+		11422 11498 11668 11690 11691 11760 11872 11873 11874 11900 12002 12020 12140 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000

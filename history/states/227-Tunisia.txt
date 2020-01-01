@@ -2,6 +2,13 @@
 state={
 	id=227
 	name="STATE_227"
+
+	history={
+		owner = FRA
+		add_core_of = FRA
+
+	}
+
 	provinces={
 		529 572 601 639 679 697 725 786 802 863 922 941 951 1048 1058 1071 1072 1140 1145 1228 1283 1365 
 	}

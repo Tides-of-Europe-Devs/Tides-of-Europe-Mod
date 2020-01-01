@@ -1,0 +1,17 @@
+
+state={
+	id=746
+	name="STATE_746"
+
+	history={
+		owner = ITA
+		add_core_of = ITA
+
+	}
+
+	provinces={
+		213 242 249 257 262 357 370 387 409 439 464 465 474 477 493 504 512 522 525 539 545 554 583 596 611 635 640 644 648 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

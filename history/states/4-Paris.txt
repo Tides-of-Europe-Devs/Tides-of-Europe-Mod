@@ -5,14 +5,19 @@ state={
 
 	history={
 		owner = FRA
+		buildings = {
+			infrastructure = 6
+			arms_factory = 30
+			industrial_complex = 40
+		}
 		add_core_of = FRA
 
 	}
 
 	provinces={
-		7332 7379 7548 7643 
+		6946 6947 6948 7103 7119 7140 7202 7215 7264 7265 7332 7379 7411 7433 7460 7548 7597 7598 7623 7643 7725 7859 
 	}
-	manpower=0
+	manpower=20000000
 	buildings_max_level_factor=1.000
-	state_category = capital
+	state_category=capital
 }

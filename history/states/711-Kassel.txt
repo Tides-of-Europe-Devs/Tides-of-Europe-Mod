@@ -1,0 +1,15 @@
+state={
+	id=711
+	name="STATE_711"
+	
+		history={
+	owner = GER
+	add_core_of = GER
+
+	}
+	provinces={
+		9025 9048 9400 9428 9540 9602 9621 9622 9623 9728 9784 9855 9901 9948 10059 10110 10157 
+	}
+	manpower=0
+	buildings_max_level_factor=1.000
+}

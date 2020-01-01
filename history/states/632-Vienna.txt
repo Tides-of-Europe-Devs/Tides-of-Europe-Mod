@@ -1,9 +1,16 @@
 state={
 	id=632
 	name="STATE_632"
+	
+		history={
+		owner = AUS
+		add_core_of = AUS
+
+	}
 	provinces={
 		6777 
 	}
 	manpower=0
 	buildings_max_level_factor=1.000
+	state_category = capital
 }
